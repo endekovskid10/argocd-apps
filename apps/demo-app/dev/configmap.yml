@@ -4,5 +4,4 @@ metadata:
   name: demo-app-config
   namespace: dev-app
 data:
-  ENV: dev
   MESSAGE: "Hello from Dev!"
